@@ -1,0 +1,43 @@
+Python 3.13.2 (tags/v3.13.2:4f8bb39, Feb  4 2025, 15:23:48) [MSC v.1942 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> # Introduction
+>>> # Day 1 - 30DaysOfPython Challenge
+>>>
+>>> print(3 + 2)   # addition(+)
+5
+>>> print(3 - 2)   # subtraction(-)
+1
+>>> print(3 * 2)   # multiplication(*)
+6
+>>> print(3 / 2)   # division(/)
+1.5
+>>> print(3 ** 2)  # exponential(**)
+9
+>>> print(3 % 2)   # modulus(%)
+1
+>>> print(3 // 2)  # Floor division operator(//)
+1
+>>>
+>>> # Checking data types
+>>>
+>>> print(type(10))                  # Int
+<class 'int'>
+>>> print(type(3.14))                # Float
+<class 'float'>
+>>> print(type(1 + 3j))              # Complex
+<class 'complex'>
+>>> print(type('Asabeneh'))          # String
+<class 'str'>
+>>> print(type([1, 2, 3]))           # List
+<class 'list'>
+>>> print(type({'name':'Asabeneh'})) # Dictionary
+<class 'dict'>
+>>> print(type({9.8, 3.14, 2.7}))    # Set
+<class 'set'>
+>>> print(type((9.8, 3.14, 2.7)))    # Tuple
+<class 'tuple'>
+>>> print(type(3 == 3))              # Bool
+<class 'bool'>
+>>> print(type(3 >= 3))              # Bool
+<class 'bool'>
+>>>
