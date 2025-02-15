@@ -1,0 +1,81 @@
+>>> # Variables in Python
+>>>
+>>> first_name = 'Pol'
+>>> last_name = 'Dip'
+>>> country = 'UK'
+>>> city = 'London'
+>>> age = 125
+>>> is_married = False
+>>> skills = ['Matlab', 'Python']
+>>> person_info = {
+...     'firstname':'Pol',
+...         'lastname':'Dip',
+...             'country':'UK',
+...                 'city':'London'
+...                     }
+>>>
+>>> # Printing the values stored in the variables
+>>>
+>>> print('First name:', first_name)
+First name: Pol
+>>> print('First name length:', len(first_name))
+First name length: 3
+>>> print('Last name: ', last_name)
+Last name:  Dip
+>>> print('Last name length: ', len(last_name))
+Last name length:  3
+>>> print('Country: ', country)
+>>> # Variables in Python
+>>>
+>>> first_name = 'Pol'
+>>> last_name = 'Dip'
+>>> country = 'UK'
+>>> city = 'London'
+>>> age = 125
+>>> is_married = False
+>>> skills = ['Matlab', 'Python']
+>>> person_info = {
+...     'firstname':'Pol',
+...         'lastname':'Dip',
+...             'country':'UK',
+...                 'city':'London'
+...                     }
+>>>
+>>> # Printing the values stored in the variables
+>>>
+>>> print('First name:', first_name)
+First name: Pol
+>>> print('First name length:', len(first_name))
+First name length: 3
+>>> print('Last name: ', last_name)
+Last name:  Dip
+>>> print('Last name length: ', len(last_name))
+Last name length:  3
+>>> print('Country: ', country)
+Country:  UK
+>>> print('City: ', city)
+City:  London
+>>> print('Age: ', age)
+Age:  125
+>>> print('Married: ', is_married)
+Married:  False
+>>> print('Skills: ', skills)
+Skills:  ['Matlab', 'Python']
+>>> print('Person information: ', person_info)
+Person information:  {'firstname': 'Pol', 'lastname': 'Dip', 'country': 'UK', 'city': 'London'}
+>>>
+>>> # Declaring multiple variables in one line
+>>>
+>>> first_name, last_name, country, age, is_married = 'Pol', 'Dip', 'UK', 125, False
+>>>
+>>> print(first_name, last_name, country, age, is_married)
+Pol Dip UK 125 False
+>>> print('First name:', first_name)
+First name: Pol
+>>> print('Last name: ', last_name)
+Last name:  Dip
+>>> print('Country: ', country)
+Country:  UK
+>>> print('Age: ', age)
+Age:  125
+>>> print('Married: ', is_married)
